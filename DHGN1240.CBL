@@ -2,10 +2,7 @@ IDENTIFICATION DIVISION.
 PROGRAM-ID. DHGN1240.
 ******************************************************************
 *    B.S.T. - BANKING SOLUTIONS AND TECHNOLOGIES
-*-----------------------------------------------------------------
-*
-*    DISPATCHER - GESTORE NODI PROCESSO
-*    P1240CCD: 1 - Negoziazione Assegno Bloccato per VAB
+*----------------------------------------------------------------
 *
 *
 ***+*********+*********+*********+*********+*********+*********+**
