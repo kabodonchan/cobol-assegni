@@ -1,15 +1,4 @@
-IDENTIFICATION DIVISION.
-PROGRAM-ID. DHGN1240.
-******************************************************************
 
-*
-
-
-SPECIAL-NAMES.
-    DECIMAL-POINT IS COMMA.
-DATA DIVISION.
-*
-WORKING-STORAGE SECTION.
 ******************************************************************
 *    SWITCH FUNZIONALI
 ******************************************************************
