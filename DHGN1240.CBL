@@ -3,9 +3,8 @@ PROGRAM-ID. DHGN1240.
 ******************************************************************
 
 *
-***+*********+*********+*********+*********+*********+*********+**
-ENVIRONMENT DIVISION.
-CONFIGURATION SECTION.
+
+
 SPECIAL-NAMES.
     DECIMAL-POINT IS COMMA.
 DATA DIVISION.
